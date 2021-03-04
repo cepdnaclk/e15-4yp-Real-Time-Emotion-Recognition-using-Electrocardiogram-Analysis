@@ -9,7 +9,7 @@ title: Real Time Emotion Recognition using Electrocardiogram Analysis
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Real Time Emotion Recognition using Electrocardiogram Analysis
+# Project Title
 
 #### Team
 
