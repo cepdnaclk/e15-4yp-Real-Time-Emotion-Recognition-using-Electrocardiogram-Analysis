@@ -13,16 +13,16 @@ title: Real Time Emotion Recognition using Electrocardiogram Analysis
 
 #### Team
 
-- E/15/139, Ishanthi D.S , [email](mailto:e15139@eng.pdn.ac.lk)
-- E/15/249, Pamoda W.A.D , [email](mailto:dasunip2@gmail.com)
-- E/15/299, Ranushka L.M , [email](mailto:e15299@eng.pdn.ac.lk)
+- E/15/139, Ishanthi D.S. , [e15139@eng.pdn.ac.lk](mailto:e15139@eng.pdn.ac.lk)
+- E/15/249, Pamoda W.A.D. , [dasunip2@gmail.com](mailto:dasunip2@gmail.com)
+- E/15/299, Ranushka L.M. , [e15299@eng.pdn.ac.lk](mailto:e15299@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Dr. Isuru Nawinne, [email](mailto:isurunawinne@eng.pdn.ac.lk)
-- Prof. Roshan Ragel, [email](mailto:roshanr@eng.pdn.ac.lk)
-- Dr. Suranji Wijekoon, [email](mailto:suranjisk@gmail.com) 
-- Mr. Theekshana Dissanayake, [email](mailto:theekshanadis@eng.pdn.ac.lk)  
+- Dr. Isuru Nawinne, [isurunawinne@eng.pdn.ac.lk](mailto:isurunawinne@eng.pdn.ac.lk)
+- Prof. Roshan Ragel, [roshanr@eng.pdn.ac.lk](mailto:roshanr@eng.pdn.ac.lk)
+- Dr. Suranji Wijekoon, [suranjisk@gmail.com](mailto:suranjisk@gmail.com) 
+- Mr. Theekshana Dissanayake, [theekshanadis@eng.pdn.ac.lk](mailto:theekshanadis@eng.pdn.ac.lk)  
 
 #### Table of content
 
