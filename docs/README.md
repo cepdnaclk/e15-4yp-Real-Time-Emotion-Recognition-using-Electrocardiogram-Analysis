@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e15-4yp-Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis
+title: Real Time Emotion Recognition using Electrocardiogram Analysis
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -13,14 +13,16 @@ title:
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/15/139, Ishanthi D.S , [email](mailto:e15139@eng.pdn.ac.lk)
+- E/15/249, Pamoda W.A.D , [email](mailto:dasunip2@gmail.com)
+- E/15/299, Ranushka L.M , [email](mailto:e15299@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Isuru Nawinne, [email](mailto:isurunawinne@eng.pdn.ac.lk)
+- Prof. Roshan Ragel, [email](mailto:roshanr@eng.pdn.ac.lk)
+- Dr. Suranji Wijekoon, [email](mailto:suranjisk@gmail.com) 
+- Mr. Theekshana Dissanayake, [email](mailto:theekshanadis@eng.pdn.ac.lk)  
 
 #### Table of content
 
