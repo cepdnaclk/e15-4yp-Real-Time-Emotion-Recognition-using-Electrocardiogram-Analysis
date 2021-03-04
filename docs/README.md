@@ -38,6 +38,25 @@ title: Real Time Emotion Recognition using Electrocardiogram Analysis
 ---
 
 ## Abstract
+Automated Human Emotion Recognition is an important subject in the modern world
+since human computer interaction is increasingly utilized in almost every field including
+healthcare, entertainment, automotive industry etc. A lot of research has been conducted
+related to this area using different emotion recognition methods. There are various
+methods of emotion recognition such as; analysing data obtained by biosensors, by
+using facial and eye activity recognition technologies and by using speech recognition
+technologies. Analysing data collected by biosensors can be considered as an effective
+method to recognise emotions since the subject can not hide or force his/her emotions
+when data is obtained. Mostly used biosensors are Electromyography (EMG), Heart Rate
+(HR), Electrocardiography (ECG), Electroencephalography (EEG), Blood Pressure and
+Galvanic Skin Response (GSR). Here, ECG can be considered as a good biosignal since it
+contains emotion related information. This research focuses on recognizing both human
+and animal emotions using ECG signal analysis. Most of the ECG analysis based emotion
+recognition studies use different types of machine learning techniques. Main problem
+with these methods is lack of accuracy and not having the ability to classify emotions
+real-time. The main objective of this study is to identify an extended range of emotions
+with higher accuracy in real-time. The proposed method is to use a large dataset to
+increase accuracy and to implement a Convolutional Neural Network to identify emotions
+real time.
 
 ## Related works
 
