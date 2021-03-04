@@ -1,3 +1,2 @@
-## Please refer the instructions in below URL:
+## Real Time Emotion Recognition using Electrocardiogram Analysis
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
