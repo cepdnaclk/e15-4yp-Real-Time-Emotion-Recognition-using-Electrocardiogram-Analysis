@@ -1,16 +1,14 @@
+#plot dog subject ECG
 import matplotlib.pyplot as plt
 from scipy.io import loadmat
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import csv
 from csv import DictWriter
 from sklearn import preprocessing
 import scipy
 from scipy import signal
 import math
-import numpy as np
-import matplotlib.pyplot as plt
 import pathlib
 from ecgdetectors import Detectors
 
