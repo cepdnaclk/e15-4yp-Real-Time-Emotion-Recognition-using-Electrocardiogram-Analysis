@@ -58,7 +58,6 @@ with higher accuracy in real-time. The proposed method is to use a large dataset
 increase accuracy and to implement a Convolutional Neural Network to identify emotions
 real time.
 
-## Related works
 
 ## Methodology
 
