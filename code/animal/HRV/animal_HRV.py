@@ -1,10 +1,8 @@
-#split dataset to files 
+#HRV parametes of Animals
 import matplotlib.pyplot as plt
 from scipy.io import loadmat
 import pandas as pd
 import numpy as np
-from python_speech_features import mfcc
-import matplotlib.pyplot as plt
 import csv
 from csv import DictWriter
 from sklearn import preprocessing
@@ -12,8 +10,6 @@ import heartpy as hp
 import scipy
 from scipy import signal
 import math
-import numpy as np
-import matplotlib.pyplot as plt
 import pathlib
 from ecgdetectors import Detectors
 from hrvanalysis import remove_outliers, remove_ectopic_beats, interpolate_nan_values
