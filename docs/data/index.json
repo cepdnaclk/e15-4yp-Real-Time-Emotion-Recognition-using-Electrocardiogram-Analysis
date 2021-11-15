@@ -1,60 +1,72 @@
 {
-   "title":"This is the title of the project",
-   "team":[
-      {
-         "name":"Team Member Name 1",
-         "email":"email@eng.pdn.ac.lk",
-         "eNumber":"E/yy/xxx",
-         "github_profile":"#",
-         "linkedin_profile":"#",
-         "researchgate_profile":"#"
-      },
-      {
-         "name":"Team Member Name 2",
-         "email":"email@eng.pdn.ac.lk",
-         "eNumber":"E/yy/xxx",
-         "github_profile":"#",
-         "linkedin_profile":"#",
-         "researchgate_profile":"#"
-      },
-      {
-         "name":"Team Member Name 3",
-         "email":"email@eng.pdn.ac.lk",
-         "eNumber":"E/yy/xxx",
-         "github_profile":"#",
-         "linkedin_profile":"#",
-         "researchgate_profile":"#"
-      }
-   ],
-   "supervisors":[
-      {
-         "name":"Dr. Supervisor 1",
-         "email":"email@eng.pdn.ac.lk",
-         "linkedin_profile":"",
-         "researchgate_profile":""
-      },
-      {
-         "name":"Dr. Supervisor 2",
-         "email":"email@eng.pdn.ac.lk",
-         "linkedin_profile":"",
-         "researchgate_profile":""
-      }
-   ],
-   "publications":[
-      {
-         "title":"Paper Title",
-         "journal":"Journal or Conference Name",
-         "description":"Sample Description",
-         "url":"#"
-      }
-   ],
-   "media":[
-      {
-         "type":"youtube",
-         "url":"#"
-      }
-   ],
-   "tags":[
-      "Final Year Projects"
-   ]
+    "title":"Real Time Emotion Recognition using Electrocardiogram Analysis",
+    "team":[
+        {
+            "name":"Ishanthi D.S.",
+            "email":"e15139@eng.pdn.ac.lk",
+            "eNumber":"E/15/139",
+            "github_profile":"#",
+            "linkedin_profile":"#",
+            "researchgate_profile":"#"
+        },
+        {
+            "name":"Pamoda W.A.D.",
+            "email":"dasunip2@gmail.com",
+            "eNumber":"E/15/249",
+            "github_profile":"#",
+            "linkedin_profile":"#",
+            "researchgate_profile":"#"
+        },
+        {
+            "name":"Ranushka L.M.",
+            "email":"e15299@eng.pdn.ac.lk",
+            "eNumber":"E/15/299",
+            "github_profile":"#",
+            "linkedin_profile":"#",
+            "researchgate_profile":"#"
+        }
+    ],
+    "supervisors":[
+        {
+            "name":"Dr. Isuru Nawinne",
+            "email":"isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile":"",
+            "researchgate_profile":""
+        },
+        {
+            "name":"Prof. Roshan Ragel",
+            "email":"roshanr@eng.pdn.ac.lk",
+            "linkedin_profile":"",
+            "researchgate_profile":""
+        },
+        {
+            "name":"Dr. Suranji Wijekoon",
+            "email":"suranjisk@gmail.com",
+            "linkedin_profile":"",
+            "researchgate_profile":""
+        },
+        {
+            "name":"Mr. Theekshana Dissanayake",
+            "email":"theekshanadis@eng.pdn.ac.lk",
+            "linkedin_profile":"",
+            "researchgate_profile":""
+        }
+    ],
+    "publications":[
+        {
+            "title":"Paper Title",
+            "journal":"Journal or Conference Name",
+            "description":"Sample Description",
+            "url":"#"
+        }
+    ],
+    "media":[
+        {
+            "type":"youtube",
+            "url":"#"
+        }
+    ],
+    "tags":[
+        "Final Year Projects"
+    ]
 }
